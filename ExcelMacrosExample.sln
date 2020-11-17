@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMacrosExample", "ExcelMacrosExample\ExcelMacrosExample.csproj", "{372A144B-21F4-49A0-BCD8-940FA4CE2BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372A144B-21F4-49A0-BCD8-940FA4CE2BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372A144B-21F4-49A0-BCD8-940FA4CE2BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372A144B-21F4-49A0-BCD8-940FA4CE2BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372A144B-21F4-49A0-BCD8-940FA4CE2BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B3AFF4-A8BD-4CE3-9D32-DF5C414F7702}
+	EndGlobalSection
+EndGlobal
